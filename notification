@@ -1,0 +1,5 @@
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "NOTIFICATION";
+	Text = "Thanks! for using V_Hub";
+	Icon = "rbxthumb://type=Asset&id=8571156203&w=150&h=150"})
+Duration = 15;
