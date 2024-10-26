@@ -1,5 +1,5 @@
 game:GetService("StarterGui"):SetCore("SendNotification", { 
 	Title = "NOTIFICATION";
-	Text = "Thanks! for using T_Hub";
+	Text = "Thanks! for using T_Systems";
 	Icon = "rbxthumb://type=Asset&id=131143946788915&w=150&h=150"})
 Duration = 15;
